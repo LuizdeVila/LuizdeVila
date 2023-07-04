@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**LuizdeVila/LuizdeVila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer, And, I'm studyng Web development at [Rocketseat](https://www.rocketseat.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=lead&utm_term=perpetuo&utm_content=institucional-lead-home-texto-lead-brandkws-none-none-institucional-none-none-br-google&gclid=Cj0KCQjwho-lBhC_ARIsAMpgMofszwsUqAvzika-ojW_jI0OIA81r0T0mB3VpvChFHSurbdGMuE5grQaArj1EALw_wcB}) :rocket: :technologist:
 
-Here are some ideas to get you started:
+#### Current stack
+- Main language: `Javascript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `GIT & Github`
+- Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### Contacts
+
+- [linkedin](https://www.linkedin.com/in/luiz-felipe-de-vila-07a8181ba/)
